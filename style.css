@@ -128,7 +128,7 @@ body {
     font-size: 30px;
     line-height: 151.52%;
     /* or 55px */
-    margin: 20px 30px;
+    margin: 20px 0px;
     color: #000000;
    }
    .update{
@@ -194,7 +194,7 @@ body {
   width: 400px;
   height: 200px;
   object-fit: cover;
-  border-radius: 33px;
+  border-radius: 24px;
   max-width: 590.47px;
   max-height: 331px;
 }
